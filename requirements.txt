@@ -1,0 +1,16 @@
+streamlit==1.42.0
+opencv-python==4.11.0.86
+torch==2.6.0
+ultralytics==8.3.73
+transformers==4.48.3
+pandas
+numpy
+email-validator
+matplotlib
+seaborn
+tqdm
+scipy
+requests
+pyyaml
+pillow
+sqlite3  # optional: for documentation; no need to install via pip (comes with Python)
